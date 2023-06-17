@@ -1,0 +1,30 @@
+.devteam{
+    width: 100vw;
+    height: 9vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.4rem;
+    color: white;
+    background-color: #96BAFF;
+    margin-top: 10px;
+    font-family: 'Poppins',sans-serif;
+}
+.devteam>h1>span{
+    background-color: #121212;
+    color: white;
+    border-radius: 7px;
+    padding: 5px 7px;
+}
+.success_message{
+    width: 100%;
+    height: 8vh;
+    color: var(--backgroundcolor);
+    background-color: #6ECB63;
+    border-radius: 7px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.4rem;
+    margin-top: 20px;
+}
